@@ -22,13 +22,13 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 👨🏽‍💻 目前从事C++高性能交易系统研发;
+- 🌱 正在学习分布式交易系统和go相关知识; 
+- 🤔 对嵌入式，音视频处理等特别感兴趣, etc..;
+- 💼 已取得硕士学位，工作多年，并且有考博打算;
+- 💬 如果有相关问题，欢迎随时咨询，我很高兴能帮助到你;
+- 📫 邮箱：56461192@qq.com.
+- 📝 博客：https://wangyazhou.blog.csdn.net.
 
 
 **Languages and Tools:**  
@@ -37,7 +37,7 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
 
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ From [CallmeMehdi]([[https://github.com/CallmeMehdi](https://github.com/zzu-andrew)](https://github.com/zzu-andrew))
 
 
 <!---
