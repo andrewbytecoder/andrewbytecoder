@@ -35,9 +35,9 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+![Achou's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
 
-⭐️ From [CallmeMehdi]([[https://github.com/CallmeMehdi](https://github.com/zzu-andrew)](https://github.com/zzu-andrew))
+⭐️ From [Achou.Wang]([[https://github.com/CallmeMehdi](https://github.com/zzu-andrew)](https://github.com/zzu-andrew))
 
 
 <!---
