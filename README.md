@@ -30,7 +30,7 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="20" src="[https://pytorch.org/assets/images/pytorch-logo.png](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)"></code>
 
 ![Achou's github stats](https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&hide_border=true)
 
