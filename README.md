@@ -32,7 +32,14 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 
 
 ![Achou's github stats](https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&hide_border=true)
+
+[![Top Langs]()](https://github.com/zzu-andrew/github-readme-stats)
+
+![Achou's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew&show_icons=true&hide_border=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew)](https://github.com/zzu-andrew/github-readme-stats)
+
+![Achou's github stats](https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&hide_border=true)
 
 
 ⭐️ From [Achou.Wang](https://github.com/zzu-andrew)
