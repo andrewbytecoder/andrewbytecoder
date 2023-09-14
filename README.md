@@ -54,7 +54,7 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ⭐️ From [Achou.Wang](https://github.com/zzu-andrew)
