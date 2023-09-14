@@ -9,10 +9,6 @@
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=iwxyi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
-![](https://raw.githubusercontent.com/zzu-andrew/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/zzu-andrew/github-stats-transparent/output/generated/languages.svg)
-
-
 Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -31,10 +27,15 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 **Languages and Tools:**  
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+<code><img height="20" src="https://en.wikipedia.org/wiki/Qt_(software)#/media/File:Qt_logo_neon_2022.svg"></code>
+
+
 
 ![Achou's github stats](https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew)](https://github.com/zzu-andrew/github-readme-stats)
 
-⭐️ From [Achou.Wang]([[https://github.com/CallmeMehdi](https://github.com/zzu-andrew)](https://github.com/zzu-andrew))
+
+⭐️ From [Achou.Wang](https://github.com/zzu-andrew)
 
 
 <!---
