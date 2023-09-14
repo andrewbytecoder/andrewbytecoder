@@ -28,12 +28,6 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 
-
-![Achou's github stats](https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&hide_border=true)
-![Achou's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew&show_icons=true&hide_border=true)
-
-
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&theme=dark"
@@ -46,6 +40,21 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
   <img src="https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true" />
 </picture>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew&show_icons=true" />
+</picture>
+
+
+
+
 
 
 ⭐️ From [Achou.Wang](https://github.com/zzu-andrew)
@@ -54,4 +63,8 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 <!---
 zzu-andrew/zzu-andrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+![Achou's github stats](https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&hide_border=true)
+![Achou's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew&show_icons=true&hide_border=true)
+
+
 --->
