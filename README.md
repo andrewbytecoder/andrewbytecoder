@@ -26,20 +26,15 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="20" src="https://en.wikipedia.org/wiki/Qt_(software)#/media/File:Qt_logo_neon_2022.svg"></code>
 
 
 
-![Achou's github stats](https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&hide_border=true)
 
-[![Top Langs]()](https://github.com/zzu-andrew/github-readme-stats)
+![Achou's github stats](https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&hide_border=true)
 
 ![Achou's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew&show_icons=true&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew)](https://github.com/zzu-andrew/github-readme-stats)
-
-![Achou's github stats](https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&hide_border=true)
 
 
 ⭐️ From [Achou.Wang](https://github.com/zzu-andrew)
