@@ -18,7 +18,7 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 - 👨🏽‍💻 目前从事C++高性能交易系统研发;
 - 🌱 正在学习分布式交易系统和go相关知识; 
 - 🤔 对嵌入式，音视频处理等特别感兴趣, etc..;
-- 💼 已取得硕士学位，工作多年，并且有考博打算;
+- 💼 已取得硕士学位，工作多年，并且有读博打算;
 - 💬 如果有相关问题，欢迎随时咨询，我很高兴能帮助到你;
 - 📫 邮箱：56461192@qq.com, wangyazhoujy@gmail.com.
 - 📝 博客：https://wangyazhou.blog.csdn.net.
