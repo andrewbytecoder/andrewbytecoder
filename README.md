@@ -47,7 +47,7 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 ![zzu-andrew's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zzu-andrew&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zzu-andrew&hide=html&exclude_repo=python_vim&hide_border=true&theme=dark)
 
-⭐️ From [Achou.Wang](https://github.com/zzu-andrew)
+⭐️ From [wangyazhou](https://github.com/zzu-andrew)
 
 
 <!---
