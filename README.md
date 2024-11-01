@@ -1,6 +1,5 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:zzu-andrew?theme=rule34"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
 </p>
 
 <h1 align="center">Hey 👋, I'm Achou</h1>
@@ -37,6 +36,18 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 **Languages and Tools:**  
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+
+
+<!--
+![zzu-andrew's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zzu-andrew&show_icons=true&count_private=true&line_height=21&hide_border=true&theme=vue)
+![Top Langs](https://https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zzu-andrew&hide=html&exclude_repo=python_vim&hide_border=true&layout=compact&theme=vue)
+-->
+<!-- 注释 [![trophy](https://github-profile-trophy.vercel.app/?username=zzu-andrew&theme=flat&column=10&margin-w=10)](https://github.com/zzu-andrew) -->
+
+![zzu-andrew's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zzu-andrew&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zzu-andrew&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/zzu-andrew/zzu-andrew/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source
