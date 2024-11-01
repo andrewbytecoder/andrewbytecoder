@@ -47,8 +47,6 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 ![zzu-andrew's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zzu-andrew&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zzu-andrew&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
 
-# ![github contribution grid snake animation](https://raw.githubusercontent.com/zzu-andrew/zzu-andrew/output/github-contribution-grid-snake.svg)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&theme=dark"
