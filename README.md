@@ -47,31 +47,6 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 ![zzu-andrew's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zzu-andrew&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zzu-andrew&hide=html&exclude_repo=python_vim&hide_border=true&theme=dark)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew&show_icons=true" />
-</picture>
-
-
 ⭐️ From [Achou.Wang](https://github.com/zzu-andrew)
 
 
