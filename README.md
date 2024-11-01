@@ -11,17 +11,27 @@
 
 Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨🏽‍💼. 
 
+[![Github](https://img.shields.io/github/followers/rfyiamcool?label=Follow&style=social)](https://github.com/zzu-andrew)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rfyiamcool.rfyiamcool" alt="visitor badge"/>  
+
+
+
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 目前从事C++高性能交易系统研发;
+- `I ❤ Open Open Source.`
+- 🤔 I’m currently using `Vim` `C/C++` `GoLang` <del>`shell`</del> 😁
 - 🌱 正在学习分布式交易系统和go相关知识; 
 - 🤔 对嵌入式，音视频处理等特别感兴趣, etc..;
 - 💼 已取得硕士学位，工作多年，并且有读博打算;
-- 💬 如果有相关问题，欢迎随时咨询，我很高兴能帮助到你;
+- ✈️ Open to Remote Job Opportunities 🍻
+- 📫 How to reach me.
 - 📫 邮箱：56461192@qq.com, wangyazhoujy@gmail.com.
 - 📝 博客：https://wangyazhou.blog.csdn.net.
+- `🚗 I ❤ Open Cloud Native.`
+- 💬 如果有相关问题，欢迎随时咨询，我很高兴能帮助到你;
 
 
 **Languages and Tools:**  
