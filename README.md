@@ -44,8 +44,8 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 -->
 <!-- 注释 [![trophy](https://github-profile-trophy.vercel.app/?username=zzu-andrew&theme=flat&column=10&margin-w=10)](https://github.com/zzu-andrew) -->
 
-![zzu-andrew's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zzu-andrew&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zzu-andrew&hide=html&exclude_repo=python_vim&hide_border=true&theme=tokyonight)
+![zzu-andrew's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zzu-andrew&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=onedark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zzu-andrew&hide=html&exclude_repo=python_vim&hide_border=true&theme=onedark)
 
 ⭐️ From [wangyazhou](https://github.com/zzu-andrew)
 
