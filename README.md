@@ -1,5 +1,5 @@
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:zzu-andrew?theme=rule34"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:andrewbytecoder?theme=rule34"></a>
 </p>
 
 <h1 align="center">Hey 👋, I'm Achou</h1>
@@ -10,7 +10,7 @@
 
 Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨🏽‍💼. 
 
-[![Github](https://img.shields.io/github/followers/rfyiamcool?label=Follow&style=social)](https://github.com/zzu-andrew)
+[![Github](https://img.shields.io/github/followers/rfyiamcool?label=Follow&style=social)](https://github.com/andrewbytecoder)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rfyiamcool.rfyiamcool" alt="visitor badge"/>  
 
 
@@ -44,10 +44,10 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 -->
 <!-- 注释 [![trophy](https://github-profile-trophy.vercel.app/?username=zzu-andrew&theme=flat&column=10&margin-w=10)](https://github.com/zzu-andrew) -->
 
-![zzu-andrew's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zzu-andrew&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zzu-andrew&hide=html&exclude_repo=python_vim&hide_border=true&theme=radical)
+![andrewbytecoder's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andrewbytecoder&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrewbytecoder&hide=html&exclude_repo=python_vim&hide_border=true&theme=radical)
 
-⭐️ From [wangyazhou](https://github.com/zzu-andrew)
+⭐️ From [wangyazhou](https://github.com/andrewbytecoder)
 
 
 <!---
