@@ -3,7 +3,12 @@
 </p>
 
 
-![:andrewbytecoder](https://count.getloli.com/@:andrewbytecoder)
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:andrewbytecoder?theme=rule34"></a>
+</p>
+
+
+
 
 <h1 align="center">Hey 👋, I'm Achou</h1>
 <h3 align="center">一位兢兢业业勤勤恳恳开发者</h3>
