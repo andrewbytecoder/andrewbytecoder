@@ -1,5 +1,5 @@
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:andrewbytecoder?theme=rule34"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@:andrewbytecoder?name=%3Aandrewbytecoder&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"></a>
 </p>
 
 <h1 align="center">Hey 👋, I'm Achou</h1>
