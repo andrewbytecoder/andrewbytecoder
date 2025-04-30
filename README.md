@@ -2,6 +2,10 @@
   <a href="https://count.getloli.com/"><img src="@:andrewbytecoder?name=%3Aandrewbytecoder&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"></a>
 </p>
 
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@:andrewbytecoder?name=%3Aandrewbytecoder&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"></a>
+</p>
+
 
 ![:andrewbytecoder](https://count.getloli.com/@:andrewbytecoder)
 
