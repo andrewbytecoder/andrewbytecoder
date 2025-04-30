@@ -42,23 +42,8 @@ Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨�
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 
 
-<!--
-![zzu-andrew's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zzu-andrew&show_icons=true&count_private=true&line_height=21&hide_border=true&theme=vue)
-![Top Langs](https://https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zzu-andrew&hide=html&exclude_repo=python_vim&hide_border=true&layout=compact&theme=vue)
--->
-<!-- 注释 [![trophy](https://github-profile-trophy.vercel.app/?username=zzu-andrew&theme=flat&column=10&margin-w=10)](https://github.com/zzu-andrew) -->
 
 ![andrewbytecoder's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andrewbytecoder&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrewbytecoder&hide=html&exclude_repo=python_vim&hide_border=true&theme=radical)
 
 ⭐️ From [wangyazhou](https://github.com/andrewbytecoder)
-
-
-<!---
-zzu-andrew/zzu-andrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-![Achou's github stats](https://github-readme-stats.vercel.app/api?username=zzu-andrew&show_icons=true&hide_border=true)
-![Achou's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-andrew&show_icons=true&hide_border=true)
-
-
---->
