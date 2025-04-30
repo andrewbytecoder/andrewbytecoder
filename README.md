@@ -7,7 +7,7 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:andrewbytecoder?theme=rule34"></a>
 </p>
 
-
+![:andrewbytecoder](https://count.getloli.com/@:andrewbytecoder)
 
 
 <h1 align="center">Hey 👋, I'm Achou</h1>
