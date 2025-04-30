@@ -1,6 +1,3 @@
-<p>
-  <a href="https://count.getloli.com/"><img src="@:andrewbytecoder?name=%3Aandrewbytecoder&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"></a>
-</p>
 
 
 <p>
@@ -18,8 +15,8 @@
 
 Hi there, I'm **Achou Wang**, a **Software Engineering** 🚀 from china 👨🏽‍💼. 
 
-[![Github](https://img.shields.io/github/followers/rfyiamcool?label=Follow&style=social)](https://github.com/andrewbytecoder)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rfyiamcool.rfyiamcool" alt="visitor badge"/>  
+[![Github](https://img.shields.io/github/followers/andrewbytecoder?label=Follow&style=social)](https://github.com/andrewbytecoder)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=andrewbytecoder.andrewbytecoder" alt="visitor badge"/>  
 
 
 
